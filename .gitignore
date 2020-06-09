@@ -1,0 +1,6 @@
+/Java/*.classpath
+/Java/*.project
+/Java/Java/*.project
+/Java/Java/*.classpath
+/Java/Java/bin
+/Java/Java/.settings
