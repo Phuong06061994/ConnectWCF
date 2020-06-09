@@ -1,0 +1,7 @@
+C:\Users\Mr.Phuong\Downloads\Wcf-HelloWorld\WcfService\bin\WcfService.dll.config
+C:\Users\Mr.Phuong\Downloads\Wcf-HelloWorld\WcfService\bin\WcfService.dll
+C:\Users\Mr.Phuong\Downloads\Wcf-HelloWorld\WcfService\bin\WcfService.pdb
+C:\Users\Mr.Phuong\Downloads\Wcf-HelloWorld\WcfService\obj\Debug\WcfService.csprojAssemblyReference.cache
+C:\Users\Mr.Phuong\Downloads\Wcf-HelloWorld\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Phuong\Downloads\Wcf-HelloWorld\WcfService\obj\Debug\WcfService.dll
+C:\Users\Mr.Phuong\Downloads\Wcf-HelloWorld\WcfService\obj\Debug\WcfService.pdb
