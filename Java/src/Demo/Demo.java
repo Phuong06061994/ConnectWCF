@@ -13,6 +13,7 @@ public class Demo {
 	URL url = new URL("http://localhost:52630/HelloService.svc?wsdl");
 	QName qname = new QName("http://tempuri.org/", "HelloService");
 	Service service = Service.create(url,qname);
+	Object obj = service.getClass();
 	
 	
 	}
